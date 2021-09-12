@@ -1,0 +1,25 @@
+{
+  "name": "akaliptbr",
+  "version": "1.0.0",
+  "description": "akali bot uma botzinha que toca musicas e tem outras funcoes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zello",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fluent-ffmpeg": "^2.1.2",
+    "google": "^2.1.0",
+    "googleapis": "^85.0.0",
+    "youtube": "^0.1.0",
+    "ytdl-core": "^4.9.1"
+  }
+}

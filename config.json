@@ -1,0 +1,10 @@
+{
+"prefix": ">",
+"token": "" ,
+"guugrou": "AIzaSyANUaLx7Zk2yS0fOmQXHNxVAuDoEoWio0s" ,
+"webclient_id":"" ,
+"comandos" :  "/commands/ lyrics.js  np.js pause.js  play.js  queue.js  resume.js  shuffle.js  skip.js  stop.js volume.js" 
+,"eventos" : "/events/" ,
+"commands" : "/commands/" ,
+"events":  "/events/" 
+}
